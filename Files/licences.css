@@ -1,0 +1,34 @@
+body {
+width:100%;
+}
+
+h1 {
+font-size: 30px;
+}
+
+pre {
+font-size: 0.8em;
+margin: 10px;
+}
+
+code {
+margin: 0px;
+}
+
+#top {
+height:20px;
+width:100%;
+background-color: #EFEFEF;
+}
+
+#header {
+background-color: #EFEFEF;
+margin: 0;
+padding: 0 10px 0 10px;
+position: relative;
+}
+
+#content {
+margin: 10px;
+width: 90%;
+}

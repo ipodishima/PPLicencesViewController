@@ -1,0 +1,13 @@
+PODS:
+  - MMMarkdown (0.3)
+  - PPHelpMe (1.0.0)
+
+DEPENDENCIES:
+  - MMMarkdown
+  - PPHelpMe
+
+SPEC CHECKSUMS:
+  MMMarkdown: 95af8920c647512d1efa2ac8ac1932baf3266e2c
+  PPHelpMe: a5627eabc04238b579c673f8c8722cd8849cfdaa
+
+COCOAPODS: 0.33.1
